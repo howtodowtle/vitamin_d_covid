@@ -33,7 +33,7 @@ meta() %>%
 - Calcitriol, the active form of Vitamin D [is active](https://www.biorxiv.org/content/10.1101/2020.06.21.162396v1) against the SARS-COV2 virus
 - Patients treated with calcifediol are [less likely](https://www.sciencedirect.com/science/article/pii/S0960076020302764?via%3Dihub#tbl0005) to be admitted to the ICU than controls
 - Several studies have now observed lower vitamin D levels among severe Covid-19 patients
-- [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) an adverse events of vitamin D supplementation can be easily managed by clinicians
+- [Vitamin D is very low risk](https://www.preprints.org/manuscript/202005.0265/v1) and adverse events of vitamin D supplementation can be easily managed by clinicians
 
 # Direct research on vitamin D and Covid
 
